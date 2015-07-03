@@ -1,0 +1,32 @@
+.page-area
+{
+  min-height: 500px;
+}
+.header
+{
+
+  background-color: #303030;
+  color: #fff;
+ padding: 10px 0px;
+  /* 2445a3 */
+  
+}
+.footer
+{
+padding: 10px 0px;
+background-color: #303030;
+}
+
+.white
+{
+ color: #fff;
+ 
+}
+
+.panel
+{
+ margin-top: 30px;
+}
+
+
+ 
