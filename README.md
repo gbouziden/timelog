@@ -22,7 +22,7 @@ It also features both LDAP and regular authentication for logging in.
 </ul>
     
 
-More admin features coming soon. 
+More admin features coming soon! 
  <ul>
   <li>Editing employees time on the front-end</li>
   <li>Choosing specific to-from dates for pay periods</li>
